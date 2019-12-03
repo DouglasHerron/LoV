@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Righteous&display=swap');
+
 #bg-image {
   width: auto;
   filter: blur(2px);
@@ -21,4 +23,14 @@ body {
   background-image: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/967d2ce8-6e11-4a3b-9d03-ddd0f78316c5/d97lj1m-7baf0662-c4ba-4538-9463-2cd371595a3c.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwic3ViIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sIm9iaiI6W1t7InBhdGgiOiIvZi85NjdkMmNlOC02ZTExLTRhM2ItOWQwMy1kZGQwZjc4MzE2YzUvZDk3bGoxbS03YmFmMDY2Mi1jNGJhLTQ1MzgtOTQ2My0yY2QzNzE1OTVhM2MuanBnIn1dXX0.SBxgKvRiutcLrio37CesqmBPub5GR-dAJAqZh1N8WOs);
   background-size: auto;
   background-position: center;
+}
+
+.stats {
+  font-family: Righteous;
+  color: black;
+  font-size: auto;
+}
+
+.characterIntro {
+  font-family: Righteous;
 }
